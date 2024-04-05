@@ -47,9 +47,10 @@ ul li{
     border-radius: 40px;
 }
 .projeto{
-    background-color: rgb(248, 188, 221);
+    background-color: rgb(248, 201, 227);
     padding: 10px;
     display: flex;
     flex-direction: column;
     gap: 15px;
+    width: 15%;
 }
