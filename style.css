@@ -3,7 +3,7 @@
     padding: 0;
 }
 p {
-    line-height: 1.5; /* Espaço entre linhas 1.5 vezes o tamanho da fonte */
+    line-height: 20px;
   }
 header{
     display: flex;
