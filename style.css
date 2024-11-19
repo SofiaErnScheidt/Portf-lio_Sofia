@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+p {
+    line-height: 1.5; /* Espaço entre linhas 1.5 vezes o tamanho da fonte */
+  }
 header{
     display: flex;
     background-color: rgb(248, 188, 221);
@@ -55,9 +57,11 @@ ul li{
     border: 1px solid black; 
     padding: 8px;
     flex-direction: row;
+    line-height: 20px;
 }
 .lista {
     display: table;
     width: 100%; 
     border-collapse: collapse;
   }
+ 
